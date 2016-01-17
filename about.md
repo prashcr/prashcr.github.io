@@ -1,20 +1,21 @@
 ---
 layout: page
-title: About Pixyll
+title: About
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+### ~$ ./who-i-am
+Hello World!<br>
+I'm Prashanth, a CS student and developer-in-training based in Hong Kong
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
+### ~$ ./what-i-do
+I'm an aspiring full-stack developer, with a keen interest in the backend side of things. I build stuff semi-regularly, and try to give back to the open source community when I can.<br>
+Check out my work on [GitHub](https://github.com/prashcr) and [CodePen](https://codepen.io/prashcr)
 
-Thanks to the following:
+### ~$ ./writings
+I write about things I learn and come across, mostly related to software development.<br>
+If you like my blog posts, subscribe to the RSS feed!
 
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+### ~$ ./contact
+Get in touch using any of the social links above
