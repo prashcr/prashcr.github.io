@@ -1,8 +1,7 @@
 ---
 layout: post
-title: "Quick Guide to IRC"
-modified:
-description: "Learn how to get started with IRC"
+title: "Guide to IRC"
+summary: "The IRC guide I wish I read earlier"
 categories: productivity
 comments: true
 share: true
@@ -10,9 +9,7 @@ date: 2015-08-06T13:18:42+08:00
 update_date: 2016-01-18
 ---
 
-In my [previous post](http://prashcr.xyz/productivity/2015/08/04/seeking-help-and-rubber-duck-debugging/) about seeking help, I mentioned trying IRC when other avenues have failed. I also realized that many may not be familiar with IRC (as I was, not too long ago), so here's a post that'll help you get started.
-
-I myself only started using it a few weeks back, whenever I needed help. I just figured out things as they were needed, along the way. It would've certainly helped if I had an explanatory guide to follow at the time.
+I myself only started using IRC a few weeks back, whenever I needed help. I just figured out things as they were needed, along the way. It would've certainly helped if I had an explanatory guide to follow at the time.
 
 I don't want to write a full feature article on IRC, because it's already been covered pretty well by others. I suggest reading [this tutorial](http://code.tutsplus.com/tutorials/irc-is-back-heres-your-starter-guide--net-31369) first.
 
