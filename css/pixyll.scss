@@ -33,3 +33,27 @@
 @import 'gists';
 @import 'measure';
 @import 'pagination';
+
+.mcss {
+  a {
+    background-image: none;
+  }
+
+  .card .card-content {
+    padding: 0.2rem;
+  }
+
+  .card .card-action {
+    padding: 0.2rem;
+  }
+
+  .card .card-title {
+    font-size: 22px;
+  }
+
+  .card .card-reveal p {
+    font-size: 0.9rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.8em;
+  }
+}
