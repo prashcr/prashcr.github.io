@@ -1,11 +1,8 @@
 ---
 layout: post
 title: "Seeking Help, and Rubber Duck Debugging"
-modified:
+summary: "The right way to look for coding help"
 categories: productivity
-description: "How to seek help"
-comments:
-share:
 date: 2015-08-05T00:07:18+08:00
 ---
 

@@ -3,9 +3,7 @@ layout: post
 title: "Guide to IRC"
 summary: "The IRC guide I wish I read earlier"
 categories: productivity
-comments: true
-share: true
-date: 2015-08-06T13:18:42+08:00
+date: 2015-08-06
 update_date: 2016-01-18
 ---
 
